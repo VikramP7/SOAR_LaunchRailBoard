@@ -27,12 +27,13 @@
     - ~~Sensor types~~
     - ~~label R31 as a jumper to ground~~
     - ~~Your name (maybe in copper)~~
-    - Description
+    - ~~Description~~
     - ~~JLCJCLJLC add to silk screen for tracking number~~
     - ~~Shorten Thermo couple name~~
-    - Add rocket name
-- Fix 5V Power source ORing for programming header
-- Fix MCU debug LEDs to use fet
+    - ~~Add rocket name~~
+- ~~Fix 5V Power source ORing for programming header~~
+- ~~Fix MCU debug LEDs to use fet~~
+- ~~Swap USB-C to through hole footprint~~
 
 
 ## Design Review
