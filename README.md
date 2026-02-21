@@ -90,6 +90,7 @@ Use 12 pin keyed 2.54mm molex connector [0702461201](https://www.digikey.ca/en/p
 -   Keyed Connector [0022552122](https://www.digikey.ca/en/products/detail/molex/0022552122/313630?s=N4IgTCBcDa5grPMBGMEC6BfIA) and crimps [0016020074](https://www.digikey.ca/en/products/detail/molex/0016020074/4838840?s=N4IgTCBcDaIIwDYAMYlIOwBYQF0C%2BQA) or [0016020069](https://www.digikey.ca/en/products/detail/molex/0016020069/1656191?s=N4IgTCBcDaIIwDYAMYlIQThAXQL5A) based on wire gauge
 -   Include reset button
 -   3V3 is purposefully not connected to 3V3 on board.
+-   The STLink connector side uses [0901420010](https://www.digikey.ca/en/products/detail/molex/0901420010/760752) with crimps [0016020074](https://www.digikey.ca/en/products/detail/molex/0016020074/4838840?) (same as the board side so should work)
 
 ## Sensors
 ### What Sensors:
