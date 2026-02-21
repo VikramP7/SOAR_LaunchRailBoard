@@ -1,0 +1,101 @@
+Removed Member From Class: ClassName=U_TC_IC3 Member=C51
+Removed Member From Class: ClassName=Ext_LED2 Member=M7
+Removed Member From Class: ClassName=Ext_LED4 Member=M7
+Removed Member From Class: ClassName=U_MicroController Member=M7
+Removed Member From Class: ClassName=Ext_LED1 Member=M8
+Removed Member From Class: ClassName=Ext_LED2 Member=M8
+Removed Member From Class: ClassName=U_MicroController Member=M8
+Removed Member From Class: ClassName=Ext_LED2 Member=R18
+Removed Member From Class: ClassName=U_TC_IC1 Member=R25
+Removed Member From Class: ClassName=U_LoadCellAmp1 Member=R30
+Removed Member From Class: ClassName=U_LoadCellAmp1 Member=R32
+Removed Member From Class: ClassName=U_PowerCircuitry Member=U13
+Removed Member From Class: ClassName=Ext_LED1 Member=U25
+Removed Member From Class: ClassName=Ext_LED3 Member=U25
+Removed Member From Class: ClassName=Ext_LED2 Member=U26
+Removed Member From Class: ClassName=Ext_LED4 Member=U26
+Removed Member From Class: ClassName=U_MicroController Member=U26
+Removed Member From Class: ClassName=Ext_LED2 Member=U27
+Removed Member From Class: ClassName=U_MicroController Member=U27
+Removed Member From Class: ClassName=U_TC_IC1 Member=U27
+Removed Member From Class: ClassName=Ext_LED2 Member=U28
+Removed Member From Class: ClassName=Ext_Led5 Member=U28
+Removed Member From Class: ClassName=U_LoadCellAmp1 Member=U28
+Removed Member From Class: ClassName=U_MicroController Member=U28
+Change Component Designator: OldDesignator=  NewDesignator=D_Rx
+Change Component Designator: OldDesignator=  NewDesignator=D_Tx
+Change Component Designator: OldDesignator=TP15 NewDesignator=MISO
+Change Component Designator: OldDesignator=TP19 NewDesignator=MOSI
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component C2 CAP ELC 2.2uF 50V 20%
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component C7 Capacitor 10µF +/-20% 25V 0805
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component C8 Capacitor 10µF +/-20% 25V 0805
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component C11 Capacitor 1 uF +/- 10% 25 V 0805
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component C14 Capacitor 1 uF +/- 10% 25 V 0805
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component C16 CAP 470pF FILM 16V 0603
+Added Member To Class: ClassName=U_MicroController Member=Component C19 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_MicroController Member=Component C21 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_MicroController Member=Component C23 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_MicroController Member=Component C26 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_MicroController Member=Component C29 Capacitor 1µF +/-20% 10V 0402
+Added Member To Class: ClassName=U_TC_IC1 Member=Component C32 CGA3E2X7R1H103K080AA
+Added Member To Class: ClassName=U_TC_IC1 Member=Component C34 CGA3E2X7R1H103K080AA
+Added Member To Class: ClassName=U_LoadCellAmp1 Member=Component C36 Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=U_LoadCellAmp1 Member=Component C38 Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=U_LoadCellAmp1 Member=Component C40 CAP CER 330pF 50V 1% 0603
+Added Member To Class: ClassName=U_LoadCellAmp2 Member=Component C42 Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=U_LoadCellAmp2 Member=Component C44 Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=U_LoadCellAmp2 Member=Component C46 CAP CER 330pF 50V 1% 0603
+Added Member To Class: ClassName=U_TC_IC2 Member=Component C48 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_TC_IC2 Member=Component C50 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_TC_IC3 Member=Component C52 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_TC_IC3 Member=Component C54 CGA3E2X7R1H103K080AA
+Added Member To Class: ClassName=U_TC_IC3 Member=Component C56 CGA3E2X7R1H103K080AA
+Added Member To Class: ClassName=Ext_LED2 Member=Component M2 MOS NMOS 30V 5.6A SOT-23
+Added Member To Class: ClassName=U_MicroController Member=Component M2 MOS NMOS 30V 5.6A SOT-23
+Added Member To Class: ClassName=Ext_LED2 Member=Component M3 MOS NMOS 30V 5.6A SOT-23
+Added Member To Class: ClassName=U_MicroController Member=Component M3 MOS NMOS 30V 5.6A SOT-23
+Added Member To Class: ClassName=Ext_LED1 Member=Component M4 MOS NMOS 30V 5.6A SOT-23
+Added Member To Class: ClassName=Ext_LED4 Member=Component M5 MOS NMOS 30V 5.6A SOT-23
+Added Member To Class: ClassName=Ext_LED2 Member=Component M6 MOS NMOS 30V 5.6A SOT-23
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component R2 Resistor 10k +/-1% 0402 100 mW
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component R4 RMCF0603FT220K
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component R6 RES 75k 1% 0.1W 0603
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component R7 RMCF0603FT220K
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component R9 RMCF0603FT220K
+Added Member To Class: ClassName=U_MicroController Member=Component R16 CRGCQ0603F2K2
+Added Member To Class: ClassName=U_MicroController Member=Component R19 Resistor 4k7 +/-1% 0805 125 mW
+Added Member To Class: ClassName=Ext_LED2 Member=Component R20 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_MicroController Member=Component R20 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=Ext_LED1 Member=Component R23 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=Ext_LED4 Member=Component R24 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=Ext_LED3 Member=Component R27 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_TC_IC1 Member=Component R33 ERJ-3EKF1000V
+Added Member To Class: ClassName=U_TC_IC1 Member=Component R34 ERJ-3EKF1000V
+Added Member To Class: ClassName=U_LoadCellAmp1 Member=Component R35 RG1608N-470-W-T1
+Added Member To Class: ClassName=U_LoadCellAmp1 Member=Component R36 RG1608N-470-W-T1
+Add Class Member: Failed to add class member : Component TP1 5003
+Add Class Member: Failed to add class member : Component TP2 5003
+Add Class Member: Failed to add class member : Component TP4 5003
+Add Class Member: Failed to add class member : Component TP5 5003
+Add Class Member: Failed to add class member : Component TP6 5003
+Add Class Member: Failed to add class member : Component TP7 5003
+Add Class Member: Failed to add class member : Component TP8 5003
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component U3 MIC5209YM-TR
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component U7 AL5809-20S1-7
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component U9 LM66100
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component U10 MIC5209YM-TR
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component U11 AL5809-20S1-7
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component U12 LM66100
+Added Member To Class: ClassName=Ext_LED2 Member=Component U14 AL5809-20S1-7
+Added Member To Class: ClassName=U_MicroController Member=Component U14 AL5809-20S1-7
+Added Member To Class: ClassName=Ext_LED2 Member=Component U15 AL5809-20S1-7
+Added Member To Class: ClassName=U_MicroController Member=Component U15 AL5809-20S1-7
+Added Member To Class: ClassName=Ext_LED2 Member=Component U16 AL5809-20S1-7
+Added Member To Class: ClassName=U_MicroController Member=Component U16 AL5809-20S1-7
+Added Member To Class: ClassName=Ext_LED1 Member=Component U17 AL5809-20S1-7
+Added Member To Class: ClassName=Ext_LED4 Member=Component U18 AL5809-20S1-7
+Added Member To Class: ClassName=Ext_LED2 Member=Component U19 AL5809-20S1-7
+Added Member To Class: ClassName=Ext_Led5 Member=Component U20 AL5809-20S1-7
+Added Member To Class: ClassName=Ext_LED3 Member=Component U21 AL5809-20S1-7
+Added Member To Class: ClassName=U_TC_IC1 Member=Component U23 MAX31856MUD+
+Added Member To Class: ClassName=U_LoadCellAmp1 Member=Component U24 NAU7802SGI

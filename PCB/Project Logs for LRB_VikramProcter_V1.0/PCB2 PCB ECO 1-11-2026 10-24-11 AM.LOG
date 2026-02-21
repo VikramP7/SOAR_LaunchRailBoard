@@ -1,0 +1,38 @@
+Change Component Footprint: Designator=L1 Old Footprint=DR74-220-R-Footprint-1 New Footprint=IND WIR 22uH 3.5A 20%-Footprint-1
+Change Component Comment : Designator=L1 Old Comment=IND WIR 22UH 1.75A 92.5MOHM SM New Comment=IND WIR 22uH 3.5A 20%
+Change Component Designator: OldDesignator=  NewDesignator=TP11
+Change Component Designator: OldDesignator=  NewDesignator=TP16
+Change Component Designator: OldDesignator=3V3 NewDesignator=TP7
+Change Component Designator: OldDesignator=5V NewDesignator=TP6
+Change Component Designator: OldDesignator=5VFSB NewDesignator=TP4
+Change Component Designator: OldDesignator=10V NewDesignator=TP3
+Change Component Designator: OldDesignator=CS1 NewDesignator=TP10
+Change Component Designator: OldDesignator=CS2 NewDesignator=TP15
+Change Component Designator: OldDesignator=CS3 NewDesignator=TP19
+Change Component Designator: OldDesignator=DE NewDesignator=TP20
+Change Component Designator: OldDesignator=GND NewDesignator=TP1
+Change Component Designator: OldDesignator=GND NewDesignator=TP2
+Change Component Designator: OldDesignator=GND NewDesignator=TP21
+Change Component Designator: OldDesignator=MISO NewDesignator=TP14
+Change Component Designator: OldDesignator=MOSI NewDesignator=TP18
+Change Component Designator: OldDesignator=Rx NewDesignator=TP12
+Change Component Designator: OldDesignator=SCK NewDesignator=TP9
+Change Component Designator: OldDesignator=SCL NewDesignator=TP8
+Change Component Designator: OldDesignator=SDA NewDesignator=TP13
+Change Component Designator: OldDesignator=Tx NewDesignator=TP17
+Change Component Designator: OldDesignator=VBUS NewDesignator=TP5
+Change Managed Component Library Link : Designator=L1 Old VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 New VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 Old ItemGUID=5b6f7ad0-1e67-4a12-a6db-64fe55a0a765 New ItemGUID=f3ff92b0-807b-454c-ac7f-8c815a3c7a1e Old RevisionGUID=0c4a7aa2-a604-47a6-b4c6-21e2f953dd5a New RevisionGUID=92719ecf-e23d-413e-9274-05d5d65abe9f
+Change component parameters: Designator = "L1" ("L1"); Footprint = "DR74-220-R-Footprint-1"; UniqueID = "\UFCRDLYY\YFNIOAME" ("\UFCRDLYY\YFNIOAME")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "5050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "3.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Self Resonant Frequency"; Value = "7MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22µH"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_MicroController Member=Component R14 CRGCQ0603F2K2
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component TP2 5003

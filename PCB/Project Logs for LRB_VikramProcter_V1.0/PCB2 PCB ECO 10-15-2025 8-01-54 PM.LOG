@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=FSB_RS485_RxTx+ Pin=J5-2
+Removed Pin From Net: NetName=FSB_RS485_RxTx- Pin=J5-7
+Added Pin To Net: NetName=FSB_RS485_RxTx- Pin=J5-2
+Added Pin To Net: NetName=FSB_RS485_RxTx+ Pin=J5-7
+Add Net: Net with name "Bias" already exists
+Add Net: Net with name "Bias" already exists

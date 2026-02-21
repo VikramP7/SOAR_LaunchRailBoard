@@ -1,0 +1,29 @@
+Added Component: Designator=CN1(FP-USB4085-GF-A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "20V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CN1-1
+Added Pin To Net: NetName=GND Pin=CN1-2
+Added Pin To Net: NetName=GND Pin=CN1-3
+Added Pin To Net: NetName=GND Pin=CN1-4
+Added Pin To Net: NetName=GND Pin=CN1-A1
+Added Pin To Net: NetName=VBUS_USB Pin=CN1-A4
+Added Pin To Net: NetName=NetCN1_A5 Pin=CN1-A5
+Added Pin To Net: NetName=USB_D_P Pin=CN1-A6
+Added Pin To Net: NetName=USB_D_N Pin=CN1-A7
+Added Pin To Net: NetName=VBUS_USB Pin=CN1-A9
+Added Pin To Net: NetName=GND Pin=CN1-A12
+Added Pin To Net: NetName=GND Pin=CN1-B1
+Added Pin To Net: NetName=VBUS_USB Pin=CN1-B4
+Added Pin To Net: NetName=NetCN1_B5 Pin=CN1-B5
+Added Pin To Net: NetName=USB_D_P Pin=CN1-B6
+Added Pin To Net: NetName=USB_D_N Pin=CN1-B7
+Added Pin To Net: NetName=VBUS_USB Pin=CN1-B9
+Added Pin To Net: NetName=GND Pin=CN1-B12

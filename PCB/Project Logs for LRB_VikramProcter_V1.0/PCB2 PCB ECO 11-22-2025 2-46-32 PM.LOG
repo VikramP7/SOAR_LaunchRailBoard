@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+10V Pin=LS1-P
+Added Pin To Net: NetName=+5V Pin=LS1-P
+Added Member To Class: ClassName=U_MicroController Member=Component R14 CRGCQ0603F2K2

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=FSB_RS485_RxTx- Pin=D6-1
+Removed Pin From Net: NetName=FSB_RS485_RxTx+ Pin=D6-3
+Change Net Name : Old Net Name=FSB_RS485_RxTx+ New Net Name=FSB_RS485_RxTx_P
+Change Net Name : Old Net Name=FSB_RS485_RxTx- New Net Name=FSB_RS485_RxTx_N
+Added Pin To Net: NetName=FSB_RS485_RxTx+ Pin=D6-3
+Added Net: Name=FSB_RS485_RxTx+
+Added Pin To Net: NetName=FSB_RS485_RxTx- Pin=D6-1
+Added Net: Name=FSB_RS485_RxTx-
+Added Differential Pair: Name=FSB_RS485_RxTx

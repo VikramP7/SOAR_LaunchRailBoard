@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TC2_nFault Pin=U11-48
+Removed Pin From Net: NetName=TC1_nFault Pin=U11-49
+Removed Pin From Net: NetName=TC3_nDRDY Pin=U11-56
+Removed Pin From Net: NetName=TC2_nDRDY Pin=U11-57
+Added Pin To Net: NetName=TC3_nDRDY Pin=U11-48
+Added Pin To Net: NetName=TC2_nFault Pin=U11-49
+Added Pin To Net: NetName=TC2_nDRDY Pin=U11-56
+Added Pin To Net: NetName=TC1_nFault Pin=U11-57

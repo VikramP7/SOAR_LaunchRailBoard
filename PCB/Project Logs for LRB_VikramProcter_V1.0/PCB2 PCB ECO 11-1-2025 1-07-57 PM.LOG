@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Anemom_Con_AN- Pin=D2-4
+Removed Pin From Net: NetName=Anemom_Con_AN+ Pin=D2-6
+Added Pin To Net: NetName=Anemom_Con_AN+ Pin=D2-4
+Added Pin To Net: NetName=Anemom_Con_AN- Pin=D2-6

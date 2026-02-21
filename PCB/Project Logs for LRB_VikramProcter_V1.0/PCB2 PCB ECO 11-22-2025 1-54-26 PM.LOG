@@ -1,0 +1,2 @@
+Change Managed Component Library Link : Designator=LS1 Old VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 New VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 Old ItemGUID=22507611-96fe-47ad-8e8b-ed62cca87852 New ItemGUID=22507611-96fe-47ad-8e8b-ed62cca87852 Old RevisionGUID=844f6eb2-2076-4a2e-8ba9-90b2aa71c665 New RevisionGUID=b884d552-a0f3-440b-b5b5-ed4faa0340d4
+Added Member To Class: ClassName=U_MicroController Member=Component R14 CRGCQ0603F2K2

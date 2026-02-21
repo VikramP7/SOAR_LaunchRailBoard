@@ -1,0 +1,42 @@
+Update Managed Component C1 From CMP-001-00067-4[Capacitor 100nF +/-20% 50V 0402] To CMP-001-00067-4[Capacitor 100nF +/-20% 50V 0402] in PowerCircuitry.SchDoc
+Update Managed Component C2 From CMP-001-00029-9[CAP ELC 2.2uF 50V 20%] To CMP-001-00029-9[CAP ELC 2.2uF 50V 20%] in PowerCircuitry.SchDoc
+Update Managed Component C3 From CMP-001-00029-9[CAP ELC 2.2uF 50V 20%] To CMP-001-00029-9[CAP ELC 2.2uF 50V 20%] in PowerCircuitry.SchDoc
+Update Managed Component C4 From CMP-001-00029-9[CAP ELC 2.2uF 50V 20%] To CMP-001-00029-9[CAP ELC 2.2uF 50V 20%] in PowerCircuitry.SchDoc
+Update Managed Component C5 From CMP-001-00067-4[Capacitor 100nF +/-20% 50V 0402] To CMP-001-00067-4[Capacitor 100nF +/-20% 50V 0402] in PowerCircuitry.SchDoc
+Update Managed Component C6 From CMP-001-00121-3[CAP ELC 68uF 50V 20%] To CMP-001-00121-3[CAP ELC 68uF 50V 20%] in PowerCircuitry.SchDoc
+Update Managed Component C7 From CMP-001-00108-3[CAP ELC 47uF 25V 20% 2626] To CMP-001-00108-3[CAP ELC 47uF 25V 20% 2626] in PowerCircuitry.SchDoc
+Update Managed Component C8 From CMP-001-00127-4[0.1uF] To CMP-001-00127-4[CAP CER 0.1uF 50V 10% 0603] in PowerCircuitry.SchDoc
+Update Managed Component C9 From CMP-001-00128-3[CAP CER 18nF 5% 50V 0603] To CMP-001-00128-3[CAP CER 18nF 5% 50V 0603] in PowerCircuitry.SchDoc
+Update Managed Component C10 From CMP-001-00129-3[CAP CER 14pF 5% 50V 0805] To CMP-001-00129-3[CAP CER 14pF 5% 50V 0805] in PowerCircuitry.SchDoc
+Update Managed Component C11 From CMP-001-00010-7[Capacitor 1 uF +/- 10% 25 V 0805] To CMP-001-00010-7[Capacitor 1 uF +/- 10% 25 V 0805] in PowerCircuitry.SchDoc
+Update Managed Component C12 From CMP-001-00010-7[Capacitor 1 uF +/- 10% 25 V 0805] To CMP-001-00010-7[Capacitor 1 uF +/- 10% 25 V 0805] in PowerCircuitry.SchDoc
+Update Managed Component C13 From CMP-001-00010-7[Capacitor 1 uF +/- 10% 25 V 0805] To CMP-001-00010-7[Capacitor 1 uF +/- 10% 25 V 0805] in PowerCircuitry.SchDoc
+Update Managed Component C14 From CMP-001-00010-7[Capacitor 1 uF +/- 10% 25 V 0805] To CMP-001-00010-7[Capacitor 1 uF +/- 10% 25 V 0805] in PowerCircuitry.SchDoc
+Update Managed Component C15 From CMP-001-00068-5[Capacitor 470pF +/-20% 50V 0402] To CMP-001-00068-5[Capacitor 470pF +/-20% 50V 0402] in PowerCircuitry.SchDoc
+Update Managed Component C16 From CMP-001-00068-5[Capacitor 470pF +/-20% 50V 0402] To CMP-001-00068-5[Capacitor 470pF +/-20% 50V 0402] in PowerCircuitry.SchDoc
+Update Managed Component DS1 From CMP-007-00024-2[LTST-C190KRKT] To CMP-007-00024-2[LTST-C190KRKT] in PowerCircuitry.SchDoc
+Update Managed Component DS2 From CMP-007-00024-2[LTST-C190KRKT] To CMP-007-00024-2[LTST-C190KRKT] in PowerCircuitry.SchDoc
+Update Managed Component DS3 From CMP-007-00024-2[LTST-C190KRKT] To CMP-007-00024-2[LTST-C190KRKT] in PowerCircuitry.SchDoc
+Update Managed Component DS4 From CMP-007-00024-2[LTST-C190KRKT] To CMP-007-00024-2[LTST-C190KRKT] in PowerCircuitry.SchDoc
+Update Managed Component DS5 From CMP-007-00024-2[LTST-C190KRKT] To CMP-007-00024-2[LTST-C190KRKT] in PowerCircuitry.SchDoc
+Update Managed Component L1 From CMP-006-00015-7[RL622-1R0K-RC] To CMP-006-00015-7[IND WIR 1uH 10A] in PowerCircuitry.SchDoc
+Update Managed Component R1 From CMP-009-00015-9[Resistor 10k +/-1% 0402 100 mW] To CMP-009-00015-9[Resistor 10k +/-1% 0402 100 mW] in PowerCircuitry.SchDoc
+Update Managed Component R2 From CMP-009-00118-7[Resistor 1K +/-5% 0805 125 mW] To CMP-009-00118-7[Resistor 1K +/-5% 0805 125 mW] in PowerCircuitry.SchDoc
+Update Managed Component R3 From CMP-009-00219-1[RES 130kR 0.1W 0.1% 0603] To CMP-009-00219-1[RES 130kR 0.1W 0.1% 0603] in PowerCircuitry.SchDoc
+Update Managed Component R4 From CMP-009-00235-2[RES 18.7k 1% 0.125W 0805] To CMP-009-00235-2[RES 18.7k 1% 0.125W 0805] in PowerCircuitry.SchDoc
+Update Managed Component R5 From CMP-009-00238-2[RES 274k 1% 0.1W 0603] To CMP-009-00238-2[RES 274k 1% 0.1W 0603] in PowerCircuitry.SchDoc
+Update Managed Component R6 From CMP-009-00228-2[RES 11.3k 1% 100mW 0603] To CMP-009-00228-2[RES 11.3k 1% 100mW 0603] in PowerCircuitry.SchDoc
+Update Managed Component R7 From CMP-009-00239-3[RES 15.8k 1% 0.1W 0603] To CMP-009-00239-3[RES 15.8k 1% 0.1W 0603] in PowerCircuitry.SchDoc
+Update Managed Component R8 From CMP-009-00221-1[RES 43.5kR 0.15W 0.1% 0603] To CMP-009-00221-1[RES 43.5kR 0.15W 0.1% 0603] in PowerCircuitry.SchDoc
+Update Managed Component R9 From CMP-009-00240-2[RES 47.5k 1% 0.1W 0603] To CMP-009-00240-2[RES 47.5k 1% 0.1W 0603] in PowerCircuitry.SchDoc
+Update Managed Component R10 From CMP-009-00241-2[RES 75k 1% 0.1W 0603] To CMP-009-00241-2[RES 75k 1% 0.1W 0603] in PowerCircuitry.SchDoc
+Update Managed Component U1 From CMP-019-00086-1[LM66100] To CMP-019-00086-1[LM66100] in PowerCircuitry.SchDoc
+Update Managed Component U2 From CMP-019-00060-2[IC TPS54561DPRT] To CMP-019-00060-2[IC TPS54561DPRT] in PowerCircuitry.SchDoc
+Update Managed Component U3 From CMP-019-00086-1[LM66100] To CMP-019-00086-1[LM66100] in PowerCircuitry.SchDoc
+Update Managed Component U4 From MIC5209YM-TR-2[MIC5209YM-TR] To MIC5209YM-TR-2[MIC5209YM-TR] in PowerCircuitry.SchDoc
+Update Managed Component U5 From MIC5209YM-TR-2[MIC5209YM-TR] To MIC5209YM-TR-2[MIC5209YM-TR] in PowerCircuitry.SchDoc
+Update Managed Component U6 From CMP-00024-00007-1[AL5809-20S1-7] To CMP-00024-00007-1[AL5809-20S1-7] in PowerCircuitry.SchDoc
+Update Managed Component U7 From CMP-00024-00007-1[AL5809-20S1-7] To CMP-00024-00007-1[AL5809-20S1-7] in PowerCircuitry.SchDoc
+Update Managed Component U8 From CMP-00024-00007-1[AL5809-20S1-7] To CMP-00024-00007-1[AL5809-20S1-7] in PowerCircuitry.SchDoc
+Update Managed Component U9 From CMP-00024-00007-1[AL5809-20S1-7] To CMP-00024-00007-1[AL5809-20S1-7] in PowerCircuitry.SchDoc
+Update Managed Component U10 From CMP-00024-00007-1[AL5809-20S1-7] To CMP-00024-00007-1[AL5809-20S1-7] in PowerCircuitry.SchDoc

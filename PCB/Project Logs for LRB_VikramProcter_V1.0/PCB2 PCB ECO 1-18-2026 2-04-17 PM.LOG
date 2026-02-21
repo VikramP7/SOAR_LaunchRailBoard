@@ -1,0 +1,483 @@
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=+5V Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=DS6-2
+Removed Pin From Net: NetName=GND Pin=DS7-2
+Removed Pin From Net: NetName=GND Pin=DS8-2
+Removed Pin From Net: NetName=+5V_FSB Pin=M1-1
+Removed Pin From Net: NetName=VBUS_USB Pin=M1-2
+Removed Pin From Net: NetName=+5V_Prgm Pin=M1-3
+Removed Pin From Net: NetName=VBUS_USB Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=+5V_FSB Pin=R7-2
+Removed Pin From Net: NetName=VBUS_USB Pin=R8-2
+Removed Pin From Net: NetName=+5V_FSB Pin=R9-1
+Removed Pin From Net: NetName=NetDS6_1 Pin=R14-2
+Removed Pin From Net: NetName=NetDS7_1 Pin=R15-2
+Removed Pin From Net: NetName=MCU_Debug_LED3 Pin=R16-1
+Removed Pin From Net: NetName=NetDS8_1 Pin=R16-2
+Removed Pin From Net: NetName=MCU_Ext_LED_Ind1 Pin=R23-2
+Removed Pin From Net: NetName=MCU_Ext_LED_Ind4 Pin=R24-2
+Removed Pin From Net: NetName=MCU_Ext_LED_Ind2 Pin=R27-2
+Removed Pin From Net: NetName=MCU_Ext_LED_Ind5 Pin=R28-2
+Removed Pin From Net: NetName=MCU_Ext_LED_Ind3 Pin=R31-2
+Removed Pin From Net: NetName=+5V Pin=U3-6
+Removed Pin From Net: NetName=+5V_FSB Pin=U4-3
+Removed Pin From Net: NetName=NetR8_1 Pin=U4-5
+Removed Pin From Net: NetName=+5V Pin=U4-6
+Removed Member From Class: ClassName=U_PowerCircuitry Member=C17
+Removed Member From Class: ClassName=U_PowerCircuitry Member=M1
+Removed Member From Class: ClassName=Ext_LED1 Member=R25
+Removed Member From Class: ClassName=Ext_LED4 Member=R26
+Removed Member From Class: ClassName=Ext_LED2 Member=R27
+Removed Member From Class: ClassName=Ext_Led5 Member=R28
+Removed Member From Class: ClassName=Ext_LED3 Member=R31
+Change Component Footprint: Designator=R14 Old Footprint=RESC0402(1005)_L New Footprint=RESC2013X50X35ML15T15
+Change Component Footprint: Designator=R15 Old Footprint=RESC0402(1005)_L New Footprint=RESC2013X50X35ML15T15
+Change Component Comment : Designator=R14 Old Comment=330R2J New Comment=Resistor 10k +/-1% 0805 125 mW
+Change Component Comment : Designator=R15 Old Comment=330R2J New Comment=Resistor 10k +/-1% 0805 125 mW
+Change Component Designator: OldDesignator=C1 NewDesignator=C11
+Change Component Designator: OldDesignator=C2 NewDesignator=C12
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C7 NewDesignator=C5
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Component Designator: OldDesignator=C11 NewDesignator=C9
+Change Component Designator: OldDesignator=C12 NewDesignator=C10
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=C16 NewDesignator=C15
+Change Component Designator: OldDesignator=C17 NewDesignator=C16
+Change Component Designator: OldDesignator=C18 NewDesignator=C17
+Change Component Designator: OldDesignator=C19 NewDesignator=C18
+Change Component Designator: OldDesignator=C20 NewDesignator=C19
+Change Component Designator: OldDesignator=C21 NewDesignator=C20
+Change Component Designator: OldDesignator=C22 NewDesignator=C21
+Change Component Designator: OldDesignator=C23 NewDesignator=C22
+Change Component Designator: OldDesignator=C24 NewDesignator=C23
+Change Component Designator: OldDesignator=C25 NewDesignator=C24
+Change Component Designator: OldDesignator=C26 NewDesignator=C25
+Change Component Designator: OldDesignator=C27 NewDesignator=C26
+Change Component Designator: OldDesignator=C28 NewDesignator=C27
+Change Component Designator: OldDesignator=C29 NewDesignator=C28
+Change Component Designator: OldDesignator=C30 NewDesignator=C29
+Change Component Designator: OldDesignator=C31 NewDesignator=C30
+Change Component Designator: OldDesignator=C32 NewDesignator=C31
+Change Component Designator: OldDesignator=C33 NewDesignator=C32
+Change Component Designator: OldDesignator=C34 NewDesignator=C33
+Change Component Designator: OldDesignator=C35 NewDesignator=C34
+Change Component Designator: OldDesignator=C36 NewDesignator=C35
+Change Component Designator: OldDesignator=C37 NewDesignator=C36
+Change Component Designator: OldDesignator=C38 NewDesignator=C37
+Change Component Designator: OldDesignator=C39 NewDesignator=C38
+Change Component Designator: OldDesignator=C40 NewDesignator=C39
+Change Component Designator: OldDesignator=C41 NewDesignator=C40
+Change Component Designator: OldDesignator=C42 NewDesignator=C41
+Change Component Designator: OldDesignator=C43 NewDesignator=C42
+Change Component Designator: OldDesignator=C44 NewDesignator=C43
+Change Component Designator: OldDesignator=C45 NewDesignator=C44
+Change Component Designator: OldDesignator=C46 NewDesignator=C45
+Change Component Designator: OldDesignator=C47 NewDesignator=C46
+Change Component Designator: OldDesignator=C48 NewDesignator=C47
+Change Component Designator: OldDesignator=C49 NewDesignator=C48
+Change Component Designator: OldDesignator=C50 NewDesignator=C49
+Change Component Designator: OldDesignator=C51 NewDesignator=C50
+Change Component Designator: OldDesignator=C52 NewDesignator=C51
+Change Component Designator: OldDesignator=C53 NewDesignator=C52
+Change Component Designator: OldDesignator=C54 NewDesignator=C53
+Change Component Designator: OldDesignator=C55 NewDesignator=C54
+Change Component Designator: OldDesignator=C56 NewDesignator=C55
+Change Component Designator: OldDesignator=C57 NewDesignator=C56
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Change Component Designator: OldDesignator=J9 NewDesignator=J6
+Change Component Designator: OldDesignator=M2 NewDesignator=M4
+Change Component Designator: OldDesignator=M3 NewDesignator=M5
+Change Component Designator: OldDesignator=M4 NewDesignator=M6
+Change Component Designator: OldDesignator=M5 NewDesignator=M7
+Change Component Designator: OldDesignator=M6 NewDesignator=M8
+Change Component Designator: OldDesignator=MISO NewDesignator=TP15
+Change Component Designator: OldDesignator=MOSI NewDesignator=TP19
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R2
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R25 NewDesignator=R23
+Change Component Designator: OldDesignator=R26 NewDesignator=R24
+Change Component Designator: OldDesignator=R29 NewDesignator=R25
+Change Component Designator: OldDesignator=R30 NewDesignator=R26
+Change Component Designator: OldDesignator=R32 NewDesignator=R27
+Change Component Designator: OldDesignator=R33 NewDesignator=R28
+Change Component Designator: OldDesignator=R34 NewDesignator=R29
+Change Component Designator: OldDesignator=R35 NewDesignator=R30
+Change Component Designator: OldDesignator=R36 NewDesignator=R32
+Change Component Designator: OldDesignator=R37 NewDesignator=R33
+Change Component Designator: OldDesignator=R38 NewDesignator=R34
+Change Component Designator: OldDesignator=R39 NewDesignator=R35
+Change Component Designator: OldDesignator=R40 NewDesignator=R36
+Change Component Designator: OldDesignator=R41 NewDesignator=R37
+Change Component Designator: OldDesignator=R42 NewDesignator=R38
+Change Component Designator: OldDesignator=R43 NewDesignator=R39
+Change Component Designator: OldDesignator=R44 NewDesignator=R40
+Change Component Designator: OldDesignator=R45 NewDesignator=R41
+Change Component Designator: OldDesignator=R46 NewDesignator=R42
+Change Component Designator: OldDesignator=R47 NewDesignator=R43
+Change Component Designator: OldDesignator=R48 NewDesignator=R44
+Change Component Designator: OldDesignator=R49 NewDesignator=R45
+Change Component Designator: OldDesignator=R50 NewDesignator=R46
+Change Component Designator: OldDesignator=R51 NewDesignator=R47
+Change Component Designator: OldDesignator=R52 NewDesignator=R48
+Change Component Designator: OldDesignator=R53 NewDesignator=R31
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=U5 NewDesignator=U10
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Change Component Designator: OldDesignator=U7 NewDesignator=U6
+Change Component Designator: OldDesignator=U8 NewDesignator=U7
+Change Component Designator: OldDesignator=U9 NewDesignator=U8
+Change Component Designator: OldDesignator=U10 NewDesignator=U11
+Change Component Designator: OldDesignator=U11 NewDesignator=U12
+Change Component Designator: OldDesignator=U12 NewDesignator=U13
+Change Component Designator: OldDesignator=U13 NewDesignator=U17
+Change Component Designator: OldDesignator=U14 NewDesignator=U18
+Change Component Designator: OldDesignator=U15 NewDesignator=U19
+Change Component Designator: OldDesignator=U16 NewDesignator=U20
+Change Component Designator: OldDesignator=U17 NewDesignator=U21
+Change Component Designator: OldDesignator=U18 NewDesignator=U22
+Change Component Designator: OldDesignator=U19 NewDesignator=U23
+Change Component Designator: OldDesignator=U20 NewDesignator=U24
+Change Component Designator: OldDesignator=U21 NewDesignator=U25
+Change Component Designator: OldDesignator=U22 NewDesignator=U26
+Change Component Designator: OldDesignator=U23 NewDesignator=U27
+Change Component Designator: OldDesignator=U24 NewDesignator=U28
+Change Managed Component Library Link : Designator=R14 Old VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 New VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 Old ItemGUID=1ADCD855-23F2-4BC3-B3E1-13FF9612D08E New ItemGUID=6DD7EFB8-522C-40B4-8F79-E53A63B64687 Old RevisionGUID=4B31F354-4B9B-43A9-B7F1-4E5F6F5CE6BE New RevisionGUID=1AA973A9-B4EA-4B08-8470-7DFC4BC401D6
+Change Managed Component Library Link : Designator=R15 Old VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 New VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 Old ItemGUID=1ADCD855-23F2-4BC3-B3E1-13FF9612D08E New ItemGUID=6DD7EFB8-522C-40B4-8F79-E53A63B64687 Old RevisionGUID=4B31F354-4B9B-43A9-B7F1-4E5F6F5CE6BE New RevisionGUID=1AA973A9-B4EA-4B08-8470-7DFC4BC401D6
+Change component parameters: Designator = "M1" ("M1"); Footprint = "PJA3404_R1_00001-Footprint-1"; UniqueID = "\FJCJSJSO\YHFSGVGV" ("\FJCJSJSO\YHFSGVGV")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Ext_LED2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain Current-Max (ID)"; Value = "5.6A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain-source On Resistance-Max"; Value = "30mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DS Breakdown Voltage-Min"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FET Technology"; Value = "METAL-OXIDE SEMICONDUCTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JESD-30 Code"; Value = "R-PDSO-G3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Dual Supply"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Vgs"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Mode"; Value = "ENHANCEMENT MODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Body Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Style"; Value = "SMALL OUTLINEMeter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity/Channel Type"; Value = "N-CHANNEL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pulsed Drain Current-Max (IDM)"; Value = "22A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Surface Mount"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal Form"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal Position"; Value = "DUAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Application"; Value = "SWITCHING"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Element Material"; Value = "SILICON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs (Max)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RESC0402(1005)_L"; UniqueID = "\FJCJSJSO\YJFJATSJ" ("\FJCJSJSO\YJFJATSJ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Ext_LED2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RESC0402(1005)_L"; UniqueID = "\FJCJSJSO\WIIAOEVI" ("\FJCJSJSO\WIIAOEVI")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ClassName"; Value = "Ext_LED2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=M2(PJA3404_R1_00001-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "Ext_LED2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Current-Max (ID)"; Value = "5.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-source On Resistance-Max"; Value = "30mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DS Breakdown Voltage-Min"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Technology"; Value = "METAL-OXIDE SEMICONDUCTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-30 Code"; Value = "R-PDSO-G3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Dual Supply"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Vgs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Mode"; Value = "ENHANCEMENT MODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Body Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Style"; Value = "SMALL OUTLINEMeter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity/Channel Type"; Value = "N-CHANNEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pulsed Drain Current-Max (IDM)"; Value = "22A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface Mount"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Form"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Position"; Value = "DUAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Application"; Value = "SWITCHING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Element Material"; Value = "SILICON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs (Max)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=M3(PJA3404_R1_00001-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "Ext_LED2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain Current-Max (ID)"; Value = "5.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-source On Resistance-Max"; Value = "30mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DS Breakdown Voltage-Min"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Technology"; Value = "METAL-OXIDE SEMICONDUCTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-30 Code"; Value = "R-PDSO-G3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Dual Supply"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Vgs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Mode"; Value = "ENHANCEMENT MODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Body Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Style"; Value = "SMALL OUTLINEMeter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity/Channel Type"; Value = "N-CHANNEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pulsed Drain Current-Max (IDM)"; Value = "22A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface Mount"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Form"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Position"; Value = "DUAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Application"; Value = "SWITCHING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Element Material"; Value = "SILICON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs (Max)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(FP-CRGCQ0603-IPC_A)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R9(FP-CRGCQ0603-IPC_A)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC2013X50X35ML15T15)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "Ext_LED2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=U9(FP-DCK0006A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U14(DIOD-SOD123-A_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "Ext_LED2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output current"; Value = "21mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U15(DIOD-SOD123-A_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "Ext_LED2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output current"; Value = "21mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U16(DIOD-SOD123-A_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = "Ext_LED2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output current"; Value = "21mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_Debug_LED1 Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-2
+Added Pin To Net: NetName=MCU_Debug_LED2 Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-2
+Added Pin To Net: NetName=MCU_Debug_LED3 Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M3-2
+Added Pin To Net: NetName=MCU_Ext_LED_Ind1 Pin=M4-1
+Added Pin To Net: NetName=MCU_Ext_LED_Ind4 Pin=M5-1
+Added Pin To Net: NetName=MCU_Ext_LED_Ind2 Pin=M6-1
+Added Pin To Net: NetName=MCU_Ext_LED_Ind5 Pin=M7-1
+Added Pin To Net: NetName=MCU_Ext_LED_Ind3 Pin=M8-1
+Added Pin To Net: NetName=VBUS_USB Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=+5V_FSB Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=MCU_Debug_LED3 Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=MCU_Ext_LED_Ind1 Pin=R23-1
+Added Pin To Net: NetName=MCU_Ext_LED_Ind4 Pin=R24-1
+Added Pin To Net: NetName=MCU_Ext_LED_Ind2 Pin=R25-1
+Added Pin To Net: NetName=MCU_Ext_LED_Ind5 Pin=R26-1
+Added Pin To Net: NetName=MCU_Ext_LED_Ind3 Pin=R27-1
+Added Pin To Net: NetName=+5V_FSB Pin=U9-3
+Added Pin To Net: NetName=NetR8_1 Pin=U9-5
+Added Pin To Net: NetName=+5V Pin=U9-6
+Added Pin To Net: NetName=+3V3 Pin=U14-1
+Added Pin To Net: NetName=NetDS6_1 Pin=U14-2
+Added Pin To Net: NetName=+3V3 Pin=U15-1
+Added Pin To Net: NetName=NetDS7_1 Pin=U15-2
+Added Pin To Net: NetName=+3V3 Pin=U16-1
+Added Pin To Net: NetName=NetDS8_1 Pin=U16-2
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=NetC28_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetC33_2 New Net Name=NetC32_2
+Change Net Name : Old Net Name=NetC34_1 New Net Name=NetC33_1
+Change Net Name : Old Net Name=NetC39_2 New Net Name=NetC38_2
+Change Net Name : Old Net Name=NetC40_1 New Net Name=NetC39_1
+Change Net Name : Old Net Name=NetC40_2 New Net Name=NetC39_2
+Change Net Name : Old Net Name=NetC41_1 New Net Name=NetC40_1
+Change Net Name : Old Net Name=NetC41_2 New Net Name=NetC40_2
+Change Net Name : Old Net Name=NetC45_2 New Net Name=NetC44_2
+Change Net Name : Old Net Name=NetC46_1 New Net Name=NetC45_1
+Change Net Name : Old Net Name=NetC46_2 New Net Name=NetC45_2
+Change Net Name : Old Net Name=NetC47_1 New Net Name=NetC46_1
+Change Net Name : Old Net Name=NetC47_2 New Net Name=NetC46_2
+Change Net Name : Old Net Name=NetC50_2 New Net Name=NetC49_2
+Change Net Name : Old Net Name=NetC51_1 New Net Name=NetC50_1
+Change Net Name : Old Net Name=NetC55_2 New Net Name=NetC54_2
+Change Net Name : Old Net Name=NetC56_1 New Net Name=NetC55_1
+Change Net Name : Old Net Name=NetJ8_1 New Net Name=NetJ6_03
+Change Net Name : Old Net Name=NetM2_3 New Net Name=NetM4_3
+Change Net Name : Old Net Name=NetM3_3 New Net Name=NetM5_3
+Change Net Name : Old Net Name=NetM4_3 New Net Name=NetM6_3
+Change Net Name : Old Net Name=NetM5_3 New Net Name=NetM7_3
+Change Net Name : Old Net Name=NetM6_3 New Net Name=NetM8_3
+Change Net Name : Old Net Name=NetR41_2 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR44_2 New Net Name=NetR40_2
+Added Pin To Net: NetName=NetDS6_2 Pin=DS6-2
+Added Pin To Net: NetName=NetDS6_2 Pin=M1-3
+Added Net: Name=NetDS6_2
+Added Pin To Net: NetName=NetDS7_2 Pin=DS7-2
+Added Pin To Net: NetName=NetDS7_2 Pin=M2-3
+Added Net: Name=NetDS7_2
+Added Pin To Net: NetName=NetDS8_2 Pin=DS8-2
+Added Pin To Net: NetName=NetDS8_2 Pin=M3-3
+Added Net: Name=NetDS8_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R7-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-5
+Added Pin To Net: NetName=NetR2_1 Pin=U4-3
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U9-2
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=PrgmVsUSB Pin=R8-2
+Added Pin To Net: NetName=PrgmVsUSB Pin=U2-6
+Added Pin To Net: NetName=PrgmVsUSB Pin=U4-6
+Added Pin To Net: NetName=PrgmVsUSB Pin=U9-1
+Added Net: Name=PrgmVsUSB
+Added Member To Class: ClassName=Ext_LED2 Member=Component M1 MOS NMOS 30V 5.6A SOT-23
+Added Member To Class: ClassName=U_MicroController Member=Component M1 MOS NMOS 30V 5.6A SOT-23
+Added Member To Class: ClassName=Ext_LED2 Member=Component M2 MOS NMOS 30V 5.6A SOT-23
+Added Member To Class: ClassName=U_MicroController Member=Component M2 MOS NMOS 30V 5.6A SOT-23
+Added Member To Class: ClassName=Ext_LED2 Member=Component M3 MOS NMOS 30V 5.6A SOT-23
+Added Member To Class: ClassName=U_MicroController Member=Component M3 MOS NMOS 30V 5.6A SOT-23
+Added Member To Class: ClassName=Ext_LED2 Member=Component R14 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=Ext_LED2 Member=Component R15 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=Ext_LED2 Member=Component R20 Resistor 10k +/-1% 0805 125 mW
+Add Class Member: Failed to add class member : Component TP1 5003
+Add Class Member: Failed to add class member : Component TP2 5003
+Add Class Member: Failed to add class member : Component TP4 5003
+Add Class Member: Failed to add class member : Component TP5 5003
+Add Class Member: Failed to add class member : Component TP6 5003
+Add Class Member: Failed to add class member : Component TP7 5003
+Add Class Member: Failed to add class member : Component TP8 5003
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component U12 LM66100
+Added Member To Class: ClassName=Ext_LED2 Member=Component U14 AL5809-20S1-7
+Added Member To Class: ClassName=U_MicroController Member=Component U14 AL5809-20S1-7
+Added Member To Class: ClassName=U_MicroController Member=Component U15 AL5809-20S1-7
+Added Member To Class: ClassName=Ext_LED2 Member=Component U16 AL5809-20S1-7
+Added Member To Class: ClassName=U_MicroController Member=Component U16 AL5809-20S1-7
+Added Member To Class: ClassName=Ext_LED2 Member=Component U19 AL5809-20S1-7

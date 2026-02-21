@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+5V Pin=LS1-P
+Change Component Footprint: Designator=LS1 Old Footprint=WT-1205-Footprint-1 New Footprint=AT-3046-TT-R-Footprint-1
+Change Component Comment : Designator=LS1 Old Comment=BUZZ 5V 40mA 47ohm New Comment=BUZZ PIEZO 10V 30MM TH
+Change Managed Component Library Link : Designator=LS1 Old VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 New VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 Old ItemGUID=22507611-96fe-47ad-8e8b-ed62cca87852 New ItemGUID=050c8b6f-8769-43ae-9205-d74e4ca98a3b Old RevisionGUID=b884d552-a0f3-440b-b5b5-ed4faa0340d4 New RevisionGUID=a8fb92a5-5981-4666-b6dd-1af45d6765ab
+Change component parameters: Designator = "LS1" ("LS1"); Footprint = "WT-1205-Footprint-1"; UniqueID = "\FJCJSJSO\RIVKUXIA" ("\FJCJSJSO\RIVKUXIA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+10V Pin=LS1-P
+Added Member To Class: ClassName=U_MicroController Member=Component R14 CRGCQ0603F2K2

@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=U_MicroController Member=R18
+Removed Member From Class: ClassName=Ext_LED4 Member=R20
+Removed Member From Class: ClassName=Ext_LED4 Member=R22
+Removed Member From Class: ClassName=Ext_Led5 Member=R24
+Removed Member From Class: ClassName=Ext_Led5 Member=R26
+Removed Member From Class: ClassName=Ext_LED3 Member=R28
+Removed Member From Class: ClassName=U_Anemometor_ResDiv1 Member=R39
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=GND Pin=U11-6
+Added Pin To Net: NetName=GND Pin=Y1-4
+Change Net Name : Old Net Name=GND New Net Name=PH0_OSC_OUT
+Added Member To Class: ClassName=U_MicroController Member=Component C24 CAP CER 22pF 5% 50V C0G 0603
+Added Member To Class: ClassName=U_MicroController Member=Component R17 RES 220R 5% 100mW 0603
+Added Member To Class: ClassName=Ext_LED4 Member=Component R19 1KR5J
+Added Member To Class: ClassName=Ext_LED4 Member=Component R21 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=Ext_Led5 Member=Component R23 1KR5J
+Added Member To Class: ClassName=Ext_Led5 Member=Component R25 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=Ext_LED3 Member=Component R27 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=U_TC_IC1 Member=Component R32 ERJ-3EKF1000V
+Added Member To Class: ClassName=U_LoadCellAmp1 Member=Component R34 RG1608N-470-W-T1
+Added Member To Class: ClassName=U_Anemometor_ResDiv1 Member=Component R36 330R2J
+Added Member To Class: ClassName=U_Anemometor_ResDiv1 Member=Component R38 470R5J
+Added Member To Class: ClassName=U_Anemometor_ResDiv2 Member=Component R40 330R2J
+Added Member To Class: ClassName=U_LoadCellAmp2 Member=Component R42 RG1608N-470-W-T1
+Added Member To Class: ClassName=U_TC_IC2 Member=Component R44 ERJ-3EKF1000V
+Added Member To Class: ClassName=U_TC_IC3 Member=Component R46 ERJ-3EKF1000V
+Added Member To Class: ClassName=U_TC_IC3 Member=Component R47 ERJ-3EKF1000V
+Added Rule: Name=Schematic Supply Nets_4

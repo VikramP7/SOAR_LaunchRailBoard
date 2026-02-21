@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=LC_I2C_SDA Pin=R13-1
+Removed Pin From Net: NetName=+3V3 Pin=R13-2
+Removed Pin From Net: NetName=LC_I2C_SCL Pin=R15-1
+Removed Pin From Net: NetName=+3V3 Pin=R15-2
+Removed Member From Class: ClassName=U_MicroController Member=R15
+Change Component Footprint: Designator=R13 Old Footprint=RESC0805(2012)_L New Footprint=RESC2013X70X40ML20T20
+Change Component Comment : Designator=R13 Old Comment=4D7R5J New Comment=Resistor 4k7 +/-1% 0805 125 mW
+Change Managed Component Library Link : Designator=R13 Old VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 New VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 Old ItemGUID=B5E58E49-04E7-48C0-BB8B-96E186309431 New ItemGUID=EC9352DE-6D7E-4207-9D11-652223D83C01 Old RevisionGUID=7581AFC5-9E03-4D24-AC71-78CD2616054B New RevisionGUID=41928C1A-607B-41B5-A7CD-135680100555
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESC0805(2012)_L"; UniqueID = "\FJCJSJSO\DNWFYLHQ" ("\FJCJSJSO\DNWFYLHQ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC2013X70X40ML20T20)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=R13-1
+Added Pin To Net: NetName=LC_I2C_SDA Pin=R13-2
+Added Pin To Net: NetName=+3V3 Pin=R14-1
+Added Pin To Net: NetName=LC_I2C_SCL Pin=R14-2
+Added Member To Class: ClassName=U_MicroController Member=Component R14 Resistor 4k7 +/-1% 0805 125 mW

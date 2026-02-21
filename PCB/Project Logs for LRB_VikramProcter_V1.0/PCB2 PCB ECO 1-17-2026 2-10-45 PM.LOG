@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=+5V_FSB Pin=R15-1
+Removed Pin From Net: NetName=+5V_FSB Pin=U24-5
+Removed Member From Class: ClassName=Ext_LED3 Member=M6
+Change component parameters: Designator = "M6" ("M6"); Footprint = "PJA3404_R1_00001-Footprint-1"; UniqueID = "\UFCRDLYY\TFRALHWW" ("\UFCRDLYY\TFRALHWW")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain Current-Max (ID)"; Value = "5.6A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain-source On Resistance-Max"; Value = "30mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DS Breakdown Voltage-Min"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FET Technology"; Value = "METAL-OXIDE SEMICONDUCTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JESD-30 Code"; Value = "R-PDSO-G3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Dual Supply"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Vgs"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Mode"; Value = "ENHANCEMENT MODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Body Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Style"; Value = "SMALL OUTLINEMeter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity/Channel Type"; Value = "N-CHANNEL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pulsed Drain Current-Max (IDM)"; Value = "22A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Surface Mount"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal Form"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal Position"; Value = "DUAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Application"; Value = "SWITCHING"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Element Material"; Value = "SILICON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs (Max)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=U24-5
+Added Net: Name=NetR15_1
+Added Member To Class: ClassName=U_MicroController Member=Component R14 CRGCQ0603F2K2

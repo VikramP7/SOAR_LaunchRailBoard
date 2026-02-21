@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=TC1_SPI_CS Pin=U11-66
+Removed Pin From Net: NetName=TC2_SPI_CS Pin=U11-67
+Removed Pin From Net: NetName=TC3_SPI_CS Pin=U11-68
+Removed Pin From Net: NetName=MCU_Ext_LED_Ind1 Pin=U11-73
+Removed Pin From Net: NetName=MCU_Ext_LED_Ind2 Pin=U11-74
+Removed Pin From Net: NetName=MCU_Ext_LED_Ind3 Pin=U11-75
+Removed Pin From Net: NetName=MCU_Ext_LED_Ind4 Pin=U11-76
+Removed Pin From Net: NetName=MCU_Ext_LED_Ind5 Pin=U11-78
+Added Pin To Net: NetName=MCU_Ext_LED_Ind1 Pin=U11-65
+Added Pin To Net: NetName=MCU_Ext_LED_Ind2 Pin=U11-66
+Added Pin To Net: NetName=MCU_Ext_LED_Ind3 Pin=U11-67
+Added Pin To Net: NetName=MCU_Ext_LED_Ind4 Pin=U11-68
+Added Pin To Net: NetName=MCU_Ext_LED_Ind5 Pin=U11-69
+Added Pin To Net: NetName=TC1_SPI_CS Pin=U11-74
+Added Pin To Net: NetName=TC2_SPI_CS Pin=U11-75
+Added Pin To Net: NetName=TC3_SPI_CS Pin=U11-76

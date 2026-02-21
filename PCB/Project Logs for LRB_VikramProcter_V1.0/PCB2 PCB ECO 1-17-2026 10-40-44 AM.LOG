@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=C15 Old Footprint=CAPC0402(1005)60_L New Footprint=Copy of 0603
+Change Component Footprint: Designator=C16 Old Footprint=CAPC0402(1005)60_L New Footprint=Copy of 0603
+Change Component Comment : Designator=C15 Old Comment=Capacitor 470pF +/-20% 50V 0402 New Comment=CAP 470pF FILM 16V 0603
+Change Component Comment : Designator=C16 Old Comment=Capacitor 470pF +/-20% 50V 0402 New Comment=CAP 470pF FILM 16V 0603
+Change Managed Component Library Link : Designator=C15 Old VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 New VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 Old ItemGUID=F5A63772-8D62-43F9-BB10-A22344224E6B New ItemGUID=355060c5-30b5-42a0-9bd1-6468daccb4a2 Old RevisionGUID=89A58F0C-A199-4230-BF20-FDEDD4E48172 New RevisionGUID=f669f0f8-19d7-43a8-84b2-d70c4441357b
+Change Managed Component Library Link : Designator=C16 Old VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 New VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 Old ItemGUID=F5A63772-8D62-43F9-BB10-A22344224E6B New ItemGUID=355060c5-30b5-42a0-9bd1-6468daccb4a2 Old RevisionGUID=89A58F0C-A199-4230-BF20-FDEDD4E48172 New RevisionGUID=f669f0f8-19d7-43a8-84b2-d70c4441357b
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAPC0402(1005)60_L"; UniqueID = "\UFCRDLYY\QEPGVYMD" ("\UFCRDLYY\QEPGVYMD")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "2%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAPC0402(1005)60_L"; UniqueID = "\UFCRDLYY\RDNOJOTW" ("\UFCRDLYY\RDNOJOTW")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "2%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"

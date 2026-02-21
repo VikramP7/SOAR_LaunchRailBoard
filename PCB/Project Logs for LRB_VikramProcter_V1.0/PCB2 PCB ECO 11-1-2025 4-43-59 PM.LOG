@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NRST Pin=D5-1
+Removed Pin From Net: NetName=Prog_SWO Pin=D5-3
+Added Pin To Net: NetName=Prog_SWO Pin=D5-1
+Added Pin To Net: NetName=NRST Pin=D5-3

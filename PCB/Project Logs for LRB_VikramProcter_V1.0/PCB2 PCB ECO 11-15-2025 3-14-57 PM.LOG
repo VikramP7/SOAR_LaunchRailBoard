@@ -1,0 +1,78 @@
+Removed Member From Class: ClassName=U_MicroController Member=C35
+Removed Member From Class: ClassName=U_TC_IC3 Member=C35
+Removed Member From Class: ClassName=U_TC_IC1 Member=C41
+Removed Member From Class: ClassName=U_LoadCellAmp1 Member=C47
+Removed Member From Class: ClassName=U_LoadCellAmp2 Member=C52
+Removed Member From Class: ClassName=U_TC_IC2 Member=C58
+Removed Member From Class: ClassName=U_MicroController Member=R5
+Removed Member From Class: ClassName=U_MicroController Member=R6
+Removed Member From Class: ClassName=U_MicroController Member=R7
+Removed Member From Class: ClassName=U_TC_IC1 Member=R11
+Removed Member From Class: ClassName=U_Anemometor_ResDiv2 Member=R15
+Removed Member From Class: ClassName=U_Anemometor_ResDiv2 Member=R30
+Removed Member From Class: ClassName=U_LoadCellAmp1 Member=R31
+Removed Member From Class: ClassName=U_Anemometor_ResDiv1 Member=R33
+Removed Member From Class: ClassName=U_Anemometor_ResDiv2 Member=R37
+Removed Member From Class: ClassName=U_LoadCellAmp2 Member=R37
+Removed Member From Class: ClassName=U_TC_IC2 Member=R39
+Removed Member From Class: ClassName=U_TC_IC2 Member=R40
+Removed Member From Class: ClassName=U_TC_IC3 Member=R41
+Removed Member From Class: ClassName=U_TC_IC3 Member=R42
+Added Component: Designator=L?(DR74-220-R-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = "3030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.75A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "1.75A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22µH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=L?-1
+Added Pin To Net: NetName=+10V Pin=L?-2
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component C5 CAP CER  1uF 50V X5R 0603
+Added Member To Class: ClassName=U_MicroController Member=Component C18 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_MicroController Member=Component C20 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_MicroController Member=Component C22 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_MicroController Member=Component C24 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_MicroController Member=Component C26 CAP CER 14pF 5% 50V 0805
+Added Member To Class: ClassName=U_MicroController Member=Component C28 Capacitor 1µF +/-20% 10V 0402
+Added Member To Class: ClassName=U_MicroController Member=Component C30 Capacitor 1µF +/-20% 10V 0402
+Added Member To Class: ClassName=U_MicroController Member=Component C32 Capacitor 4.7µF +/-20% 10V 0603
+Added Member To Class: ClassName=U_MicroController Member=Component C34 Capacitor 1µF +/-20% 10V 0402
+Added Member To Class: ClassName=U_TC_IC1 Member=Component C35 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_TC_IC1 Member=Component C36 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_TC_IC1 Member=Component C38 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_LoadCellAmp1 Member=Component C40 Capacitor 1 uF +/- 10% 50 V 0805
+Added Member To Class: ClassName=U_LoadCellAmp1 Member=Component C42 Capacitor 1 uF +/- 10% 50 V 0805
+Added Member To Class: ClassName=U_LoadCellAmp1 Member=Component C44 Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=U_LoadCellAmp2 Member=Component C46 Capacitor 1 uF +/- 10% 50 V 0805
+Added Member To Class: ClassName=U_LoadCellAmp2 Member=Component C49 Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=U_LoadCellAmp2 Member=Component C51 CAP CER 330pF 50V 1% 0603
+Added Member To Class: ClassName=U_TC_IC2 Member=Component C52 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_TC_IC2 Member=Component C53 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_TC_IC2 Member=Component C55 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_TC_IC3 Member=Component C57 CGA3E2X7R1E104K080AA
+Added Member To Class: ClassName=U_TC_IC3 Member=Component C59 CGA3E2X7R1H103K080AA
+Added Member To Class: ClassName=U_TC_IC3 Member=Component C61 CGA3E2X7R1H103K080AA
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component L? IND WIR 22UH 1.75A 92.5MOHM SM
+Added Member To Class: ClassName=U_PowerCircuitry Member=Component R7 RES 75k 1% 0.1W 0603
+Added Member To Class: ClassName=U_MicroController Member=Component R8 ERJ-2GEJ241x
+Added Member To Class: ClassName=U_MicroController Member=Component R10 330R2J
+Added Member To Class: ClassName=U_MicroController Member=Component R12 CRGCQ0603F2K2
+Added Member To Class: ClassName=U_MicroController Member=Component R14 CRGCQ0603F2K2
+Added Member To Class: ClassName=U_MicroController Member=Component R16 CRGCQ0603F2K2
+Added Member To Class: ClassName=U_TC_IC1 Member=Component R32 ERJ-3EKF1000V
+Added Member To Class: ClassName=U_LoadCellAmp1 Member=Component R34 RG1608N-470-W-T1
+Added Member To Class: ClassName=U_Anemometor_ResDiv1 Member=Component R36 330R2J
+Added Member To Class: ClassName=U_Anemometor_ResDiv1 Member=Component R37 470R5J
+Added Member To Class: ClassName=U_Anemometor_ResDiv2 Member=Component R38 330R2J
+Added Member To Class: ClassName=U_Anemometor_ResDiv2 Member=Component R39 330R2J
+Added Member To Class: ClassName=U_Anemometor_ResDiv2 Member=Component R40 470R5J
+Added Member To Class: ClassName=U_LoadCellAmp2 Member=Component R42 RG1608N-470-W-T1
+Added Member To Class: ClassName=U_TC_IC2 Member=Component R43 ERJ-3EKF1000V
+Added Member To Class: ClassName=U_TC_IC2 Member=Component R44 ERJ-3EKF1000V
+Added Member To Class: ClassName=U_TC_IC3 Member=Component R45 ERJ-3EKF1000V
+Added Member To Class: ClassName=U_TC_IC3 Member=Component R46 ERJ-3EKF1000V

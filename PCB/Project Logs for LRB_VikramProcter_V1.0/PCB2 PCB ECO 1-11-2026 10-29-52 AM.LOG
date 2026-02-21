@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=L1 Old Footprint=IND WIR 22uH 3.5A 20%-Footprint-1 New Footprint=IND WIR 22uH 3.5A 20%-Footprint-1
+Change Managed Component Library Link : Designator=L1 Old VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 New VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 Old ItemGUID=f3ff92b0-807b-454c-ac7f-8c815a3c7a1e New ItemGUID=f3ff92b0-807b-454c-ac7f-8c815a3c7a1e Old RevisionGUID=92719ecf-e23d-413e-9274-05d5d65abe9f New RevisionGUID=097393ba-c3b2-4f53-a389-b69423732a5d
+Added Member To Class: ClassName=U_MicroController Member=Component R14 CRGCQ0603F2K2

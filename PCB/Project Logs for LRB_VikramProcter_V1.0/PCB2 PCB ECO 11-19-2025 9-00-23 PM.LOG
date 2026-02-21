@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PH0_OSC_OUT Pin=R17-2
+Removed Pin From Net: NetName=PH0_OSC_OUT Pin=U11-6
+Removed Pin From Net: NetName=PH0_OSC_OUT Pin=Y1-3
+Change Net Name : Old Net Name=PH0_OSC_OUT New Net Name=GND
+Added Pin To Net: NetName=PH0_OSC_OUT Pin=R17-2
+Added Pin To Net: NetName=PH0_OSC_OUT Pin=U11-6
+Added Pin To Net: NetName=PH0_OSC_OUT Pin=Y1-3
+Added Net: Name=PH0_OSC_OUT
+Added Rule: Name=Schematic Supply Nets_2

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=Bias_1 Pin=D1-3
+Added Pin To Net: NetName=Bias_1 Pin=J2-5
+Added Pin To Net: NetName=Bias_1 Pin=R32-2
+Added Pin To Net: NetName=Bias_1 Pin=U18-2
+Added Net: Name=Bias_1
+Add Net: Net with name "Bias" already exists

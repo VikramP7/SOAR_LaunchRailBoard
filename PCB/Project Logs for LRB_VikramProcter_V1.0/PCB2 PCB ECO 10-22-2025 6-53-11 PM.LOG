@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=Bias New Net Name=Bias_TC3
+Change Net Name : Old Net Name=Bias_1 New Net Name=Bias_TC1
+Added Pin To Net: NetName=Bias_TC2 Pin=D1-4
+Added Pin To Net: NetName=Bias_TC2 Pin=J3-5
+Added Pin To Net: NetName=Bias_TC2 Pin=R49-2
+Added Pin To Net: NetName=Bias_TC2 Pin=U22-2
+Added Net: Name=Bias_TC2

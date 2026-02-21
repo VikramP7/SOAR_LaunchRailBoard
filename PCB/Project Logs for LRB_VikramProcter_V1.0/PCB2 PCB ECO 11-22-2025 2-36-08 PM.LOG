@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=LS1 Old Footprint=AT-3046-TT-R-Footprint-1 New Footprint=CMI-1210-5-95T-Footprint-1
+Change Component Comment : Designator=LS1 Old Comment=BUZZ PIEZO 10V 30MM TH New Comment=BUZZ MAG 5V 12MM TH
+Change Managed Component Library Link : Designator=LS1 Old VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 New VaultGUID=9FC02FF7-6FFB-40DD-871C-B9AD94DB54C2 Old ItemGUID=050c8b6f-8769-43ae-9205-d74e4ca98a3b New ItemGUID=49c6c42f-ad98-4bcc-b8ae-5bb153bbd3a8 Old RevisionGUID=a8fb92a5-5981-4666-b6dd-1af45d6765ab New RevisionGUID=2db046f6-9c96-4722-a7f9-53c3ea2b25d2
+Added Member To Class: ClassName=U_MicroController Member=Component R14 CRGCQ0603F2K2

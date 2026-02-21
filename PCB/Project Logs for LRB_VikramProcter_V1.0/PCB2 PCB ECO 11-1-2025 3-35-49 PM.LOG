@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=TC3_nFault Pin=U11-47
+Removed Pin From Net: NetName=TC3_nDRDY Pin=U11-48
+Removed Pin From Net: NetName=TC2_nFault Pin=U11-49
+Removed Pin From Net: NetName=TC2_nDRDY Pin=U11-56
+Removed Pin From Net: NetName=TC1_nFault Pin=U11-57
+Removed Pin From Net: NetName=TC1_nDRDY Pin=U11-58
+Removed Pin From Net: NetName=TC1_SPI_CS Pin=U11-74
+Removed Pin From Net: NetName=TC3_SPI_CS Pin=U11-76
+Added Pin To Net: NetName=TC3_nDRDY Pin=U11-47
+Added Pin To Net: NetName=TC3_SPI_CS Pin=U11-48
+Added Pin To Net: NetName=TC3_nFault Pin=U11-49
+Added Pin To Net: NetName=TC1_nFault Pin=U11-70
+Added Pin To Net: NetName=TC1_SPI_CS Pin=U11-71
+Added Pin To Net: NetName=TC1_nDRDY Pin=U11-73
+Added Pin To Net: NetName=TC2_nFault Pin=U11-74
+Added Pin To Net: NetName=TC2_nDRDY Pin=U11-76

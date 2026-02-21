@@ -1,0 +1,94 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\LRB_VikramProcter_V1.0\PCB2.PcbDoc
+Date     : 1/22/2026
+Time     : 9:08:37 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=6mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room U_TC_IC2 (Bounding Region = (2680mil, 1485mil, 3190mil, 2215mil) (InComponentClass('U_TC_IC2'))
+Rule Violations :0
+
+Processing Rule : Room U_TC_IC3 (Bounding Region = (3795mil, 1505mil, 4305mil, 2235mil) (InComponentClass('U_TC_IC3'))
+Rule Violations :0
+
+Processing Rule : Room U_LoadCellAmp2 (Bounding Region = (6000mil, 1460mil, 6560mil, 2025mil) (InComponentClass('U_LoadCellAmp2'))
+Rule Violations :0
+
+Processing Rule : Room U_Anemometor_ResDiv1 (Bounding Region = (5145mil, 1478.15mil, 5415mil, 1725mil) (InComponentClass('U_Anemometor_ResDiv1'))
+Rule Violations :0
+
+Processing Rule : Room U_Anemometor_ResDiv2 (Bounding Region = (4865mil, 1480mil, 5135mil, 1725mil) (InComponentClass('U_Anemometor_ResDiv2'))
+Rule Violations :0
+
+Processing Rule : Room U_TC_IC1 (Bounding Region = (1555mil, 1505mil, 2065mil, 2235mil) (InComponentClass('U_TC_IC1'))
+Rule Violations :0
+
+Processing Rule : Room Ext_LED1 (Bounding Region = (7135mil, 3485mil, 7560mil, 4130mil) (InComponentClass('Ext_LED1'))
+Rule Violations :0
+
+Processing Rule : Room Ext_Led5 (Bounding Region = (5015mil, 3495mil, 5440mil, 4140mil) (InComponentClass('Ext_Led5'))
+Rule Violations :0
+
+Processing Rule : Room Ext_LED2 (Bounding Region = (6575mil, 3485mil, 7000mil, 4130mil) (InComponentClass('Ext_LED2'))
+Rule Violations :0
+
+Processing Rule : Room Ext_LED4 (Bounding Region = (5530mil, 3490mil, 5955mil, 4135mil) (InComponentClass('Ext_LED4'))
+Rule Violations :0
+
+Processing Rule : Room U_LoadCellAmp1 (Bounding Region = (7095mil, 1480mil, 7655mil, 2045mil) (InComponentClass('U_LoadCellAmp1'))
+Rule Violations :0
+
+Processing Rule : Room Ext_LED3 (Bounding Region = (6055mil, 3495mil, 6480mil, 4140mil) (InComponentClass('Ext_LED3'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Un-Routed Net Constraint ( (All) )
+   Waived Violation between Un-Routed Net Constraint: Via (1145mil,1140mil) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.Waived by Vikram Procter at 11/5/2025 7:17:35 PMMounting Hole No Connect
+   Waived Violation between Un-Routed Net Constraint: Via (1145mil,4165mil) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.Waived by Vikram Procter at 11/5/2025 7:17:11 PMMounting Hole No Connect
+   Waived Violation between Un-Routed Net Constraint: Via (7855mil,1140mil) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.Waived by Vikram Procter at 11/5/2025 7:17:45 PMMounting Hole No Connect
+   Waived Violation between Un-Routed Net Constraint: Via (7855mil,4165mil) from Top Signal to Bottom Signal Dead Copper - Net Not Assigned.Waived by Vikram Procter at 11/5/2025 7:17:54 PMMounting Hole No Connect
+Waived Violations :4
+
+
+Violations Detected : 0
+Waived Violations : 4
+Time Elapsed        : 00:00:00
