@@ -12,28 +12,8 @@
 
 
 ## TODO
-- ~~Find FSB connector~~
-- ~~Define FSB connector wiring standard~~
-- ~~Connector ESD Protection~~
-- ~~Figure out Reset Button, and buzzer~~
-- ~~I2C pull ups please~~
-- ~~Figure out how to do USB vs FSB power supply switching (ORing LM66100)~~
-- ~~Add indicator LEDs (Power, USB power, MCU debug)~~
-- ~~Mounting holes~~
-- ~~Find external LED indicators connector wire assembly~~
-- Box edge LED indicators
-- ~~Fix inductor to have larger current max~~
-- Add lots of silkscreen
-    - ~~Sensor types~~
-    - ~~label R31 as a jumper to ground~~
-    - ~~Your name (maybe in copper)~~
-    - ~~Description~~
-    - ~~JLCJCLJLC add to silk screen for tracking number~~
-    - ~~Shorten Thermo couple name~~
-    - ~~Add rocket name~~
-- ~~Fix 5V Power source ORing for programming header~~
-- ~~Fix MCU debug LEDs to use fet~~
-- ~~Swap USB-C to through hole footprint~~
+- Source box edge LED indicators
+- Design water proof box
 
 
 ## Design Review
@@ -206,7 +186,12 @@ Use 12 pin keyed 2.54mm molex connector [0702461201](https://www.digikey.ca/en/p
 -   Board side connector [S2B-XH-A](https://www.digikey.ca/en/products/detail/jst-sales-america-inc/S2B-XH-A/1651055)
 -   Connector Housing [XHP-2](https://www.digikey.ca/en/products/detail/jst-sales-america-inc/XHP-2/555485)
 -   Housing Crimp [SXH-001T-P0.6N](https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SXH-001T-P0-6N/7041446)
+-   Box edge waterproof leds from [AliExpress](https://www.aliexpress.com/item/1005008982081981.html)
 
+
+## Enclosure
+-   Water proof box [AliExpress 200x100x70mm](https://www.aliexpress.com/item/1005007587120013.html)
+-   Drill holes in this box for connectors and LEDs
 
 
 ## Glossary
@@ -217,10 +202,25 @@ Use 12 pin keyed 2.54mm molex connector [0702461201](https://www.digikey.ca/en/p
 - TC: Thermo couple
 - CS: chip select
 
-# OLD STUFF
-### Sensor Connectors:
--   Waterproof FLH Series 6 position Amphenol connector
--   Board to wire male header [FLHP6200](https://www.amphenol-cs.com/product/flhp6200.html), [digikey](https://www.digikey.ca/en/products/detail/amphenol-cs-commercial-products/FLHP6200/18629906)
--   Cable assembly socket female housing [FLH-S61-00](https://www.amphenol-cs.com/product/flhs6100.html), [digikey](https://www.digikey.ca/en/products/detail/amphenol-cs-commercial-products/FLHS6100/18629899)
--   Cable assembly socket tin crimps [FLHSC136T01](https://www.amphenol-cs.com/product/flhsc136t01.html), [digikey](https://www.digikey.ca/en/products/detail/amphenol-cs-commercial-products/FLHSC136T01/9924372)
--   See [catalog](https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/s6145c.pdf) for details
+## Completed TODO
+- ~~Find FSB connector~~
+- ~~Define FSB connector wiring standard~~
+- ~~Connector ESD Protection~~
+- ~~Figure out Reset Button, and buzzer~~
+- ~~I2C pull ups please~~
+- ~~Figure out how to do USB vs FSB power supply switching (ORing LM66100)~~
+- ~~Add indicator LEDs (Power, USB power, MCU debug)~~
+- ~~Mounting holes~~
+- ~~Find external LED indicators connector wire assembly~~
+- ~~Fix inductor to have larger current max~~
+- ~~Add lots of silkscreen~~
+    - ~~Sensor types~~
+    - ~~label R31 as a jumper to ground~~
+    - ~~Your name (maybe in copper)~~
+    - ~~Description~~
+    - ~~JLCJCLJLC add to silk screen for tracking number~~
+    - ~~Shorten Thermo couple name~~
+    - ~~Add rocket name~~
+- ~~Fix 5V Power source ORing for programming header~~
+- ~~Fix MCU debug LEDs to use fet~~
+- ~~Swap USB-C to through hole footprint~~
