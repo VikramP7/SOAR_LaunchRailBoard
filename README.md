@@ -14,6 +14,7 @@
 ## TODO
 - Source box edge LED indicators
 - Design water proof box
+- Assembly
 
 
 ## Design Review
