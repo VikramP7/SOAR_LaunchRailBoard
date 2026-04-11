@@ -11,10 +11,9 @@
 - Replacing the Signal Observations Board (SOB) from Ouroboros
 
 
-## TODO
-- Source box edge LED indicators
-- Design water proof box
-- Assembly
+## TODO for V2
+- Only use 0603 (remove that stupid 0402 R8)
+- Fix same part mismatches (eg. CGA3E2X7R1E104K080AA 0.1uF 0603 and 06035C104KAT2A 100nF 0603)
 
 
 ## Design Review
@@ -88,10 +87,10 @@
 ## Programming Header
 Use 12 pin keyed 2.54mm molex connector [0702461201](https://www.digikey.ca/en/products/detail/molex/0702461201/760167) for Serial Wire Debug Programming protocol ![JTAG](./img/SoarJTAG.png)
 -   Should be compatible with connector bellow or just free wires
--   Keyed Connector [0022552122](https://www.digikey.ca/en/products/detail/molex/0022552122/313630?s=N4IgTCBcDa5grPMBGMEC6BfIA) and crimps [0016020074](https://www.digikey.ca/en/products/detail/molex/0016020074/4838840?s=N4IgTCBcDaIIwDYAMYlIOwBYQF0C%2BQA) or [0016020069](https://www.digikey.ca/en/products/detail/molex/0016020069/1656191?s=N4IgTCBcDaIIwDYAMYlIQThAXQL5A) based on wire gauge
+-   Keyed Connector [0022552122](https://www.digikey.ca/en/products/detail/molex/0022552122/313630?s=N4IgTCBcDa5grPMBGMEC6BfIA) and crimps [0016020069](https://www.digikey.ca/en/products/detail/molex/0016020069/1656191?s=N4IgTCBcDaIIwDYAMYlIQThAXQL5A) 24-30 AWG wire gauge
 -   Include reset button
 -   3V3 is purposefully not connected to 3V3 on board.
--   The STLink connector side uses [0901420010](https://www.digikey.ca/en/products/detail/molex/0901420010/760752) with crimps [0016020074](https://www.digikey.ca/en/products/detail/molex/0016020074/4838840?) (same as the board side so should work)
+-   The STLink connector side uses [0901420010](https://www.digikey.ca/en/products/detail/molex/0901420010/760752) with crimps [0016020069](https://www.digikey.ca/en/products/detail/molex/0016020069/1656191?s=N4IgTCBcDaIIwDYAMYlIQThAXQL5A) (same as the board side so should work)
 
 ## Sensors
 ### What Sensors:
@@ -226,3 +225,6 @@ Use 12 pin keyed 2.54mm molex connector [0702461201](https://www.digikey.ca/en/p
 - ~~Fix 5V Power source ORing for programming header~~
 - ~~Fix MCU debug LEDs to use fet~~
 - ~~Swap USB-C to through hole footprint~~
+- ~~Source box edge LED indicators~~
+- ~~Design water proof box~~
+- ~~Assembly~~
