@@ -193,6 +193,12 @@ Use 12 pin keyed 2.54mm molex connector [0702461201](https://www.digikey.ca/en/p
 ## Enclosure
 -   Water proof box [AliExpress 220X170X110mm](https://www.aliexpress.com/item/1005007437283895.html)
 -   Drill holes in this box for connectors and LEDs
+-   3D printed pcb in box mount (all in cm)
+    - Height = 1.75+16.75+1.75
+    - Holes vertically spaced 16.75 center to center
+    - Holes horizontally spaced 2.00
+    - Width = 9.00
+    - Depth = 0.90
 
 
 ## Glossary
