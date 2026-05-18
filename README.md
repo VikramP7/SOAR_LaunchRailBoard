@@ -1,4 +1,4 @@
-*<div align="right"> Written by Vikram Procter | Sept 13, 2025 </div>*
+*<div align="right"> Vikram Procter | Sept 13, 2025 </div>*
 
 # SOAR - Launch Rail Board Specs
 
@@ -10,6 +10,7 @@
 - The board should also store sensor data to flash memory
 - Replacing the Signal Observations Board (SOB) from Ouroboros
 
+![Image of Assembled Board](./img/assembled_board.jpeg)
 
 ## TODO for V2
 - Only use 0603 (remove that stupid 0402 R8)
